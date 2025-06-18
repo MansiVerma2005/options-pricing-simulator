@@ -7,7 +7,7 @@ Includes visualizations of:
 - 3D surface plots
 - P&L at expiry for long call, long put, and straddle
 
-## 📊 Built With
+## Built With
 - Python, NumPy, Matplotlib
 - Jupyter Notebook
 
